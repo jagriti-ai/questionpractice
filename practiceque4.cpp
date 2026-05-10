@@ -14,7 +14,7 @@ int main() {
 
    for(int i=1;i<=n; i++){   
 factorial= factorial*i; // moving to next number in loop
-    cout<<i<< "! =" << factorial<<endl;  // o
+    cout<<i<< "! =" << factorial<<endl;  // output
    }
 
    return 0;
